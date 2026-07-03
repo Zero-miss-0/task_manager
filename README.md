@@ -1,6 +1,4 @@
 [README.md](https://github.com/user-attachments/files/29645652/README.md)
-# task_manager
-This project is a terminal-based Project and Task Management application developed using Object-Oriented Programming (OOP) principles in Python.
 # 📋 Task Manager — سیستم مدیریت پروژه و وظایف
 
 > **Terminal-Based Project & Task Management System** built with Python and Object-Oriented Programming principles.
